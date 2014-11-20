@@ -2,18 +2,18 @@
 
 Contributors: Sparanoid
 Donate link: http://sparanoid.com/donate/
-Tags: admin, administration, content, contents, excerpt, excerpts, feeds, html, multisite, page, pages, plugin, plugins, post, posts, text, title, wpmu, writing, wysiwyg
+Tags: admin, administration, content, contents, excerpt, excerpts, feeds, html, multisite, page, pages, plugin, plugins, post, posts, text, title, wpmu, writing, wysiwyg, editor, visual, visual editor, TinyMCE
 Requires at least: 1.5
-Tested up to: 4.0
-Stable tag: 1.0.0
+Tested up to: 4.1
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Disable WYSIWYG totally completely permanently forever
+Disable TinyMCE Visual Editor (WYSIWYG editor) totally completely permanently forever
 
 == Description ==
 
-Disable WYSIWYG sets `user_can_richedit` to `false` that disable WYSIWYG totally completely permanently forever. This plugin also works fine with multisite enabled WordPress (aka. WordPress Mu).
+Disable WYSIWYG sets `user_can_richedit` to `false` that disable TinyMCE Visual Editor (WYSIWYG editor) totally completely permanently forever. This plugin also works fine with multisite enabled WordPress (aka. WordPress Mu).
 
 More information please visit my [site](http://sparanoid.com/work/disable-wysiwyg/).
 
@@ -37,10 +37,16 @@ Old-styled WordPress Mu:
 
 == Upgrade Notice ==
 
+= 1.0.1 =
+* Update readme
+
 = 1.0.0 =
 * First release
 
 == Changelog ==
+
+= 1.0.1 =
+* Update readme
 
 = 1.0.0 =
 * First release

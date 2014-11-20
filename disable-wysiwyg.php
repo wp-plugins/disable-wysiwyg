@@ -9,8 +9,8 @@
  * @wordpress-plugin
  * Plugin Name:       Disable WYSIWYG
  * Plugin URI:        http://sparanoid.com/work/disable-wysiwyg/
- * Description:       Disable WYSIWYG totally completely permanently forever
- * Version:           1.0.0
+ * Description:       Disable TinyMCE Visual Editor (WYSIWYG editor) totally completely permanently forever
+ * Version:           1.0.1
  * Author:            Tunghsiao Liu
  * Author URI:        http://sparanoid.com/
  * Text Domain:       disable-wysiwyg
