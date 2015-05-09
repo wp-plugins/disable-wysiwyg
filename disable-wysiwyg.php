@@ -10,7 +10,7 @@
  * Plugin Name:       Disable WYSIWYG
  * Plugin URI:        http://sparanoid.com/work/disable-wysiwyg/
  * Description:       Disable TinyMCE Visual Editor (WYSIWYG editor) totally completely permanently forever
- * Version:           1.0.2
+ * Version:           1.0.3
  * Author:            Tunghsiao Liu
  * Author URI:        http://sparanoid.com/
  * Text Domain:       disable-wysiwyg
@@ -26,6 +26,4 @@
  * @since Disable_WYSIWYG 1.0.0
  */
 
-add_filter('user_can_richedit', false);
-
-?>
+add_filter( 'user_can_richedit', '__return_false' );
